@@ -2,6 +2,25 @@
 A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-quality image and video upscaling locally with AI-driven denoising.
 ![home](images/Home.jpg)
 
+
+<div align="center">
+https://img.shields.io/badge/Python-3.8%252B-blue
+https://img.shields.io/badge/GUI-PySide6-green
+https://img.shields.io/badge/AI-GFPGAN-orange
+https://img.shields.io/badge/Computer%2520Vision-OpenCV-red
+
+A professional desktop application for face restoration and enhancement using GFPGAN AI model
+
+Features • Installation • Usage • Demo • Technical Details
+
+</div>
+
+
+
+
+
+
+
 ## 📸 Project Insights
 
 | Face Restoration Window | Video Upscaling Window |
