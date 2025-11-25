@@ -11,28 +11,18 @@ high-quality image and video upscaling locally with AI-driven denoising.
 ![home](images/Home.jpg)
 
 ✨ Features:-
-
-🖼️ Advanced Image Display
-
-🖱️ Zoom & Pan: Smooth mouse wheel zooming and drag-to-pan functionality
-
-🖼️ Dual View: Side-by-side comparison of original and restored images
-
-🎛️ View Controls: Reset view and fit-to-screen options
-
-🔢 Real-time Zoom Info: Live display of current zoom percentage
-
-🚀 AI-based Upscaling: Powered by Real-ESRGAN backend
-
-🎥 Image & Video Support: Works seamlessly with both formats
-
-🔍 Zoom Preview: Zoom in/out and preview results before saving
-
-🖥️ Desktop Interface: Clean and easy-to-use GUI
-
-⚡ GPU Acceleration: Faster processing using dedicated hardware
-
-📂 One-click Save: Export results in high-quality formats
+    
+    🖼️ Advanced Image Display
+    🖱️ Zoom & Pan: Smooth mouse wheel zooming and drag-to-pan functionality
+    🖼️ Dual View: Side-by-side comparison of original and restored images
+    🎛️ View Controls: Reset view and fit-to-screen options
+    🔢 Real-time Zoom Info: Live display of current zoom percentage
+    🚀 AI-based Upscaling: Powered by Real-ESRGAN backend
+    🎥 Image & Video Support: Works seamlessly with both formats
+    🔍 Zoom Preview: Zoom in/out and preview results before saving
+    🖥️ Desktop Interface: Clean and easy-to-use GUI
+    ⚡ GPU Acceleration: Faster processing using dedicated hardware
+    📂 One-click Save: Export results in high-quality formats
 
 
 
