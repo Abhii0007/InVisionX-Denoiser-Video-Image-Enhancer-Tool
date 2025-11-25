@@ -104,7 +104,6 @@ Prerequisites
 
 # Dependencies:
 
-    PySide6>=6.4.0
     opencv-python>=4.5.0
     numpy>=1.21.0
     torch>=1.9.0
