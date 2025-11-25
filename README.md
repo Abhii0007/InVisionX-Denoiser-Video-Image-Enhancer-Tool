@@ -1,13 +1,15 @@
 # InVisionX-Denoiser-Video-Image-Enhancer-Tool
 A User-friendly Interface & Tool uses Real-ESRGAN AI Model as backend for high-quality image and video upscaling locally with AI-driven denoising.
+![home](images/Home.jpg)
 
 ## 📸 Project Insights
 
-| Image Upscaling Window | Video Upscaling Window |
+| Face Restoration Window | Video Upscaling Window |
 |--------------|---------------|
-| ![home](images/Home.jpg) | ![video section](images/Home_video_section.jpg) |
+| ![home](images/face_restore.jpg) | ![video section](images/Home_video_section.jpg) |
 
-| Inbuilt Overlay Markup & Viewer | Project Log |
+
+| Image Enhancement with Inbuilt Overlay Markup | Project Log |
 |--------------|---------------|
 | ![Overlay markup](images/inbuilt_overlay_markup.jpg) | ![Model log](images/model_log.jpg) |
 
