@@ -1,6 +1,6 @@
 📋 Overview
 
-InvisionX Denoiser, is an User-friendly feature-rich & Responsive App-Tool that leverages the power of GFPGAN (Generative Facial Prior Generative Adversarial Network) and RealESRGAN Generative AutoEncoder Models as backend to restore and enhance facial images. Regenerate high-quality image and upscale videos locally with AI-driven denoising. 
+VisionX Denoiser, is an User-friendly feature-rich & Responsive App-Tool that leverages the power of GFPGAN (Generative Facial Prior Generative Adversarial Network) and RealESRGAN Generative AutoEncoder Models as backend to restore and enhance facial images. Regenerate high-quality image and upscale videos locally with AI-driven denoising. 
 
 
 
