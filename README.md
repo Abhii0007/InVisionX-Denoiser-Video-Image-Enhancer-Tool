@@ -200,7 +200,7 @@ Create a new issue with detailed information
 
 Include system specifications and error logs
 
-🚀 Future Enhancevements
+🚀 Future Enhancement
 
     Batch processing multiple images
     Additional AI models support
